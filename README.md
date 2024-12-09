@@ -24,9 +24,9 @@
 
 ## Where else you can find me
 
-- LinkedIN
-- GitLab
-- Discord
+- [LinkedIn](https://www.linkedin.com/in/dominic-daniel-kr%C3%A4mer-56a40a248/)
+- [GitLab](https://gitlab.com/Dominicdaniel86)
+- [Discord](https://discord.com/users/derobamaimkampfpanzer/)
 
 ## My GitHub Stats
 
