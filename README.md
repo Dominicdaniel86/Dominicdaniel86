@@ -26,13 +26,17 @@
 
 - LinkedIN
 - GitLab
-- Discord (dont mind the name!)
+- Discord
 
-## My GitHub stats
+## My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dominicdaniel86&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicdaniel86&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dominicdaniel86)
-![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dominicdaniel86&bg_color=ffffff&color=000000&line=000000&point=000000)
+![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dominicdaniel86&theme=transparent)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dominicdaniel86&theme=transparent&hide_border=true)
+
+![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dominicdaniel86&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dominicdaniel86&layout=compact&theme=transparent&langs_count=10&hide_border=true)
+
 
 </div>
