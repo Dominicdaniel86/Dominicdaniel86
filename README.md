@@ -43,11 +43,11 @@ Chatbot for space station queries, featuring a space-themed UI and real-time inf
 ## Also collaborating on 🫱🏻‍🫲🏻
 
 ### Academic ChatBot 👨🏻‍🎓
-A chatbot that processes YouTube videos for interactive learning. Users can ask specific questions about the video content. [View on GitHub](https://github.com/dneumnn/AcademicChatBot)
-🔧 Built with XXX
+A chatbot that processes YouTube videos for interactive learning. Users can ask specific questions about the video content. [View on GitHub](https://github.com/dneumnn/AcademicChatBot)  
+🔧 Built with Python and FastAPI
 
 ### Chrono Crusaders Project 🎮
-Developing a roguelike video game with time travel themes in the Godot Engine. Still in concept. [View on GitHub](https://github.com/Chrono-Crusaders/Chrono-Crusaders-Project)
+Developing a roguelike video game with time travel themes in the Godot Engine. Still in concept. [View on GitHub](https://github.com/Chrono-Crusaders/Chrono-Crusaders-Project)  
 🔧 Built with Gotdot, GDScript and C#
 
 ## Where else you can find me
