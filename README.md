@@ -1,6 +1,6 @@
 <div align="center">
   
-## Welcome to my GitHub Profile 👋
+# Welcome to my GitHub Profile 👋
 
 ## Some skills that I am capable of 🔧
 
