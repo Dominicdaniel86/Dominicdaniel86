@@ -28,13 +28,27 @@
 
 ## My current projects 🔭
 
-### Spotify Session App
+### Spotify Session App 🎵
+Enhanced Spotify sessions alternative with fair participation for all users. [View on GitHub](https://github.com/Dominicdaniel86/Spotify-Session-App)  
+🔧 Built with TypeScript, Node.js and Docker
 
-### GitLab to GitHub Issues Exporter
+### GitLab to GitHub Issues Exporter 📃
+Python-based application for exporting issues from GitLab to GitHub with complete data integrity. [View on GitHub](https://github.com/Dominicdaniel86/GitLab-to-GitHub-Issues-Exporter)  
+🔧 Built with Python and Tkinter
 
-### Space Station ChatBot (University Project)
+### Space Station ChatBot (University Project) 🛰️
+Chatbot for space station queries, featuring a space-themed UI and real-time information about the ISS. [View on GitHub](https://github.com/Dominicdaniel86/Space-Station-Chatbot)
+🔧 Built with Rasa, Python and Flask
 
-### Academic Chat Bot (University Project)
+## Also collaborating on 🫱🏻‍🫲🏻
+
+### Academic ChatBot 👨🏻‍🎓
+A chatbot that processes YouTube videos for interactive learning. Users can ask specific questions about the video content. [View on GitHub](https://github.com/dneumnn/AcademicChatBot)
+🔧 Built with XXX
+
+### Chrono Crusaders Project 🎮
+Developing a roguelike video game with time travel themes in the Godot Engine. Still in concept. [View on GitHub](https://github.com/Chrono-Crusaders/Chrono-Crusaders-Project)
+🔧 Built with Gotdot, GDScript and C#
 
 ## Where else you can find me
 
