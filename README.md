@@ -37,7 +37,7 @@ Python-based application for exporting issues from GitLab to GitHub with complet
 🔧 Built with Python and Tkinter
 
 ### Space Station ChatBot (University Project) 🛰️
-Chatbot for space station queries, featuring a space-themed UI and real-time information about the ISS. [View on GitHub](https://github.com/Dominicdaniel86/Space-Station-Chatbot)
+Chatbot for space station queries, featuring a space-themed UI and real-time information about the ISS. [View on GitHub](https://github.com/Dominicdaniel86/Space-Station-Chatbot)  
 🔧 Built with Rasa, Python and Flask
 
 ## Also collaborating on 🫱🏻‍🫲🏻
