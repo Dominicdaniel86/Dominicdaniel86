@@ -28,8 +28,8 @@
 
 ## My current projects 🔭
 
-### Spotify Session App 🎵
-Enhanced Spotify sessions alternative with fair participation for all users. [View on GitHub](https://github.com/Dominicdaniel86/Spotify-Session-App)  
+### Mursica FM 🎵
+Enhanced Spotify sessions alternative with fair participation for all users. [View on GitHub](https://github.com/Dominicdaniel86/Mursica-FM)  
 🔧 Built with TypeScript, Node.js and Docker
 
 ### GitLab to GitHub Issues Exporter 📃
