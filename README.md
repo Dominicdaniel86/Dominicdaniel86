@@ -32,7 +32,7 @@
 Enhanced Spotify sessions alternative with fair participation for all users. [View on GitHub](https://github.com/Dominicdaniel86/Mursica-FM)  
 🔧 Built with TypeScript, Node.js and Docker
 
-### Dominics Vocab Trainer
+### Dominics Vocab Trainer 📙
 A customized vocabulary and language learner. Build for myself to help me learn polish. [View on GitHub](https://github.com/Dominicdaniel86/DominicsVocabTrainer)
 🔧 Built with TypeScript
 
