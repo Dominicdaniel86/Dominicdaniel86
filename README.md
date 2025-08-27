@@ -32,6 +32,10 @@
 Enhanced Spotify sessions alternative with fair participation for all users. [View on GitHub](https://github.com/Dominicdaniel86/Mursica-FM)  
 🔧 Built with TypeScript, Node.js and Docker
 
+### Dominics Vocab Trainer
+A customized vocabulary and language learner. Build for myself to help me learn polish. [View on GitHub](https://github.com/Dominicdaniel86/DominicsVocabTrainer)
+🔧 Built with TypeScript
+
 ### GitLab to GitHub Issues Exporter 📃
 Python-based application for exporting issues from GitLab to GitHub with complete data integrity. [View on GitHub](https://github.com/Dominicdaniel86/GitLab-to-GitHub-Issues-Exporter)  
 🔧 Built with Python and Tkinter
